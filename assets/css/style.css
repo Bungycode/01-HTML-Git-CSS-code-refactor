@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* Changed the .header to header, div to nav */
+/* Changed the .header to header and div to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* Changed the .header to header, div to nav,  */
+/* Changed the .header to header and div to nav */
 header nav ul {
     list-style-type: none;
 }
-/* Changed the .header to header, div to nav */
+/* Changed the .header to header and div to nav */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -69,7 +69,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/*Changed .content to the element selector main */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
