@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* Changed the .header to header */
 header {
     padding: 20px;
@@ -14,15 +15,18 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* Changed the .header to header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 /* Changed the .header to header */
 header h1 .seo {
     color: #d9dcd6;
 }
+
 /* Changed the .header to header and div to nav */
 header nav {
     padding-top: 15px;
@@ -31,10 +35,12 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /* Changed the .header to header and div to nav */
 header nav ul {
     list-style-type: none;
 }
+
 /* Changed the .header to header and div to nav */
 header nav ul li {
     display: inline-block;
@@ -46,17 +52,35 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
-    background-position: center;  
+    background-position: center;
+}
+
+/* Changed .content to the element selector main and rearranged into semantic order */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Condensed multiple CSS rule sets with repetitve properties down into an element selector and rearranged into semantic order */
+article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set and rearranged into semantic order */
+article img {
+    max-height: 200px;
 }
 
 .float-left {
@@ -64,16 +88,20 @@ p {
     margin-right: 25px;
 }
 
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set and rearranged into semantic order */
+article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Rearranged into semantic order */
+p {
+    font-size: 16px;
+}
+
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/*Changed .content to the element selector main */
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* Changed .benefits to the element selector aside */
@@ -105,27 +133,6 @@ aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* Condensed multiple CSS rule sets with repetitve properties down into an element selector */
-article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
-article img {
-    max-height: 200px;
-}
-
-/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
-article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Changed .footer to the element selector footer */
