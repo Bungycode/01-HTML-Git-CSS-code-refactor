@@ -4,7 +4,7 @@
 
 ## Mock-Up
 
-The following image shows the web application's presentation and functionality:
+The following image shows a demonstration of what the finished web application's presentation and functionality will imitate:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and areas with text and images at the bottom of the page.](./assets/images/01-HTML-Git-CSS-code-refactor.png)
 
