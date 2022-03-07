@@ -88,26 +88,26 @@ aside {
     background-color: #2589bd;
 }
 
-/* Condensed ruleset down */
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Condensed ruleset down */
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Condensed ruleset down */
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Condensed the classes down into one element selector */
+/* Condensed multiple CSS rule sets with repetitve properties down into an element selector */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,12 +117,12 @@ article {
     color: #ffffff;
 }
 
-/* Condensed the classes down into one CSS Rule Set */
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
 article img {
     max-height: 200px;
 }
 
-/* Condensed the classes down into one CSS Rule Set */
+/* Condensed multiple CSS rule sets with repetitve properties down into one CSS rule set */
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
