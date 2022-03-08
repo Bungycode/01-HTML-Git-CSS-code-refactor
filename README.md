@@ -13,12 +13,12 @@ The following image shows a demonstration of what the finished web application's
 Before you continue, make sure you have the following requirements:
 
 - You have Visual Studio Code downloaded.
-- You are using a MAC OS or windows machine.
+- You are using a MAC OS or Windows machine.
 - You have a basic understanding of HTML and CSS.
 
 ## Links
 
-![This is a URL link to the deployed application.](https://bungycode.github.io/01-HTML-Git-CSS-code-refactor/)
+[This is a URL link to the deployed application.](https://bungycode.github.io/01-HTML-Git-CSS-code-refactor/)
 
 [This is a URL link to the Github repository.](https://github.com/Bungycode/01-HTML-Git-CSS-code-refactor.git)
 
