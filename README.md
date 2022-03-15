@@ -6,7 +6,7 @@ The purpose of this project is to showcase how to take a client's pre-existing c
 
 ## Mock-Up
 
-The following image shows a demonstration of what the finished web application's presentation and functionality will imitate:
+The following image shows a demonstration of what the finished web application's presentation and functionality will include:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and areas with text and images at the bottom of the page.](./assets/images/code-refactor.png)
 
